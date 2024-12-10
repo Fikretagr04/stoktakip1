@@ -1,0 +1,5 @@
+D:\Öğrenci Dosyaları\12sınıfntpproje1643\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\12sınıfntpproje1643\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.Form1.resources
+D:\Öğrenci Dosyaları\12sınıfntpproje1643\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.Properties.Resources.resources
+D:\Öğrenci Dosyaları\12sınıfntpproje1643\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\12sınıfntpproje1643\StokTakipProgramı\StokTakipProgramı\obj\Debug\StokTakipProgramı.csproj.CoreCompileInputs.cache
